@@ -1,0 +1,16 @@
+# PHP
+/vendor/
+*.log
+*.cache
+*.env
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+
+# Config files
+config.php
+
+# OS
+Thumbs.db
